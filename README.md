@@ -7,7 +7,7 @@
 
 - Use strict mode in their code
 - Define arrow functions in javascript
-- play with foreach loop in javascript
+- Play with foreach loop in javascript
 - Use map method in javascipt
 - Use Filter method in javascipt
 - Use Reduce method in javascipt
