@@ -17,9 +17,9 @@
 1. Strict mode followed by examples and labs
 2. Arrow functions followed by examples and labs
 3. forEach followed by examples and labs
-4. Map with labs
-5. Filter with labs
-6. Reduce with labs
+4. Map method with labs
+5. Filter method with labs
+6. Reduce method with labs
 7. Practice Session
 
 ## How JS works
