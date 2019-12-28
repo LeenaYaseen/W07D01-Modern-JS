@@ -13,14 +13,14 @@
 - Use Reduce method in javascipt
 
 ## Agenda
-*Explaning of:* 
-1. Strict mode with examples
-2. Arrow functions with examples
-3. forEach with examples
-4. Map with examples
-5. Filter with examples
-6. Reduce with examples
-7. Practice with examples
+*Explanation of:* 
+1. Strict mode followed by examples and labs
+2. Arrow functions followed by examples and labs
+3. forEach followed by examples and labs
+4. Map with labs
+5. Filter with labs
+6. Reduce with labs
+7. Practice Session
 
 ## How JS works
 Lets start with this video to revise that [how Javascript works](https://www.youtube.com/watch?v=b1ieJtIx1NY).
