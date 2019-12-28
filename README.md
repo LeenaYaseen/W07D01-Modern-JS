@@ -22,6 +22,8 @@
 6. Reduce with examples
 7. Practice with examples
 
+## How JS works
+Lets start with this video to revise that [how Javascript works](https://www.youtube.com/watch?v=b1ieJtIx1NY).
 
 ## What is JS ES
 JS ES stands for Javascript European Computer Manufacturers Association Script, also known as JS ECMAScript. <br>
