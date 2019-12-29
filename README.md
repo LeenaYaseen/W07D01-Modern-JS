@@ -8,9 +8,9 @@
 - Use strict mode in their code
 - Define arrow functions in javascript
 - Play with foreach loop in javascript
-- Use map method in javascipt
-- Use Filter method in javascipt
-- Use Reduce method in javascipt
+- Use map method in javascript
+- Use Filter method in javascript
+- Use Reduce method in javascript
 
 ## Agenda
 *Explanation of:* 
